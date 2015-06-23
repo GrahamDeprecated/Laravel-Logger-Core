@@ -11,8 +11,8 @@
 
 namespace GrahamCampbell\LoggerCore;
 
-use Psr\Log\LoggerInterface;
 use PHPUnit_Framework_TestCase as TestCase;
+use Psr\Log\LoggerInterface;
 
 /**
  * This is the logger trait test class.
