@@ -28,6 +28,9 @@ class LoggerTraitTest extends TestCase
         $this->assertInstanceOf(LoggerInterface::class, $logger);
     }
 
+    /**
+     * @depends canInstantiate
+     */
     public function testCanLog()
     {
         $logger = new Logger();
