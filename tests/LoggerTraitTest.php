@@ -22,7 +22,7 @@ use Psr\Log\LoggerInterface;
  */
 class LoggerTraitTest extends TestCase
 {
-    public function canInstantiate()
+    public function testCanInstantiate()
     {
         $logger = new Logger();
 
@@ -30,7 +30,7 @@ class LoggerTraitTest extends TestCase
     }
 
     /**
-     * @depends canInstantiate
+     * @depends testCanInstantiate
      */
     public function testCanLog()
     {
