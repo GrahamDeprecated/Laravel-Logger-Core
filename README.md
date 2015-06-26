@@ -3,6 +3,10 @@ Laravel Logger Core
 
 Laravel Logger Core was created by, and is maintained by [Graham Campbell](https://github.com/GrahamCampbell), and provides a logger trait for reuse for [Laravel 5](http://laravel.com). Feel free to check out the [change log](CHANGELOG.md), [releases](https://github.com/GrahamCampbell/Laravel-Logger-Core/releases), [license](LICENSE), and [contribution guidelines](CONTRIBUTING.md).
 
+## WARNING
+
+#### This package is no longer maintained.
+
 ![Laravel Logger Core](https://cloud.githubusercontent.com/assets/2829600/7897483/1a3ed83e-06d5-11e5-9f34-842b5f3bed75.png)
 
 <p align="center">
