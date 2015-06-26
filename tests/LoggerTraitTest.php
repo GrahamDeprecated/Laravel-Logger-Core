@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace GrahamCampbell\LoggerCore;
+namespace GrahamCampbell\Tests\LoggerCore;
 
 use PHPUnit_Framework_TestCase as TestCase;
 use Psr\Log\LoggerInterface;
