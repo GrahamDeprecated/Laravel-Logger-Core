@@ -11,6 +11,7 @@
 
 namespace GrahamCampbell\Tests\LoggerCore;
 
+use GrahamCampbell\LoggerCore\LoggerTrait;
 use PHPUnit_Framework_TestCase as TestCase;
 use Psr\Log\LoggerInterface;
 
